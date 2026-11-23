@@ -69,7 +69,8 @@ Key points:
 
 
 ## MODEL GRAPH
-*(Insert IV characteristics graph and optical power plots here)*
+<img width="992" height="1280" alt="image" src="https://github.com/user-attachments/assets/350924a8-5b1d-49e3-89fd-4eaabc1ea6b6" />
+
 
 ---
 
